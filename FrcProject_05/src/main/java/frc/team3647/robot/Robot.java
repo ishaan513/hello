@@ -1,4 +1,4 @@
-package org.usfirst.frc.team3647.robot;
+package frc.team3647.robot;
 
 import edu.wpi.first.wpilibj.IterativeRobot;
 import edu.wpi.first.wpilibj.smartdashboard.SendableChooser;
